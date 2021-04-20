@@ -4,3 +4,4 @@ The script works by executing:
 ```
 php nhentai.net ######
 ```
+and you just have to replace the '#' with the 6 (or less) digits numbers.
